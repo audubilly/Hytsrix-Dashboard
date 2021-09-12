@@ -10,3 +10,5 @@ hystrix:
 spring:
   application:
     name: HYSTRIX-DASHBOARD
+
+
